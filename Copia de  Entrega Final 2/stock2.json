@@ -1,0 +1,210 @@
+[{
+    "img": "img/tazas/TAZON LBLACK.jpg",
+    "id": "5",
+    "codigo": "05",
+    "nombre": "Tazon Limbadi Cobalto",
+    "color":"negro",
+    "precio": 2100,
+    "cantidad":1
+
+},
+{
+    "img": "img/tazas/TAZON_LIMBADI.jpg",
+    "id": "6",
+    "codigo": "06",
+    "nombre": "Tazon Limbadi",
+    "color":"negro",
+    "precio": 2100,
+    "cantidad":1
+
+},
+{
+    "img": "img/bowl/MINI BOWL SINTRA2.jpg",
+    "id": "7",
+    "codigo": "07",
+    "nombre": "Set Cup Mitte",
+    "color":"blanco",
+    "precio": 2100,
+    "cantidad":1
+
+},
+{
+    "img": "img/bowl/BOWL SINTRA1.jpg",
+    "id": "8",
+    "codigo": "08",
+    "nombre": "Cup Mitte Cobalto",
+    "color":"cobalto",
+    "precio": 1650
+
+},
+{
+    "img": "img/bowl/MINI BOWL SINTRA1.jpg",
+    "id": "9",
+    "codigo": "09",
+    "nombre": "Cup Mitte Blak White",
+    "color":"blanco",
+    "precio": 1650
+
+},
+{
+    "img":"img/platos/PLATITO_MONTJUIC_COBALTO.jpg",
+    "id": "11",
+    "codigo": "101",
+    "nombre": "Plato Montjuic Cobalto",
+    "color":"cobalto",
+    "precio": 2100
+
+},
+{
+    "img":"img/platos/CYMERA_20220419_142951.jpg",
+    "id": "12",
+    "codigo": "102",
+    "nombre": "Plato hondo Cobalto",
+    "color":"cobalto",
+    "precio": 2100
+
+},
+{
+    "img":"img/platos/PLATITO_MONTJUIC.jpg",
+    "id": "13",
+    "codigo": "103",
+    "nombre": "Platito Montjuic Black",
+    "color":"negro",
+    "precio": 1560
+
+},
+{
+    "img":"img/platos/PLATO LIMBADI GRIS.jpg",
+    "id": "14",
+    "codigo": "104",
+    "nombre": "plato limbadi gris",
+    "color":"gris",
+    "precio": 1660
+
+},
+{
+    "img":"img/platos/PLATO LIMBADI.jpg",
+    "id": "15",
+    "codigo": "105",
+    "nombre": "plato limbadi",
+    "color":"blanco y negro",
+    "precio": 2100
+
+},
+{
+    "img":"img/tazas/SOPERO_LIMBADIB.jpg",
+    "id": "16",
+    "codigo": "106",
+    "nombre": "sopero limbadi black",
+    "color":"negro",
+    "precio": 1560
+
+},
+{
+    "img":"img/platos/PLATO MITTE HARBOR.jpg",
+    "id": "17",
+    "codigo": "107",
+    "nombre": "plato mitte harbor",
+    "color":"cobalto",
+    "precio": 2100
+
+},
+{
+    "img":"img/platos/PLATO MITTE SMALL.jpg",
+    "id": "18",
+    "codigo": "108",
+    "nombre": "plato mitte small",
+    "color":"blanco y negro",
+    "precio": 1550
+
+},
+{
+    "img":"img/platos/PLATO HONDO POMPEII1.jpg",
+    "id": "19",
+    "codigo": "109",
+    "nombre": "plato sopero mitte",
+    "color":"blanco y negro",
+    "precio": 1950
+
+},
+{
+    "img":"img/tazas/CYMERA_20211216_175059.jpg",
+    "id": "21",
+    "codigo": "201",
+    "nombre": "porta utensillos montjuic",
+    "color":"blanco y negro",
+    "precio": 1560
+
+},
+{
+    "img":"img/bowl/CYMERA_20220414_164403.jpg",
+    "id": "22",
+    "codigo": "202",
+    "nombre": "bowl montjuic",
+    "color":"blanco y negro",
+    "precio": 1950
+
+},
+{
+    "img":"img/bowl/BOWL MONTJIUC COBALTO.jpg",
+    "id": "23",
+    "codigo": "203",
+    "nombre": "bowl montjuic cobalto",
+    "color":"cobalto",
+    "precio": 1660
+
+},
+{
+    "img":"img/bowl/BOWLS LIMBADI.jpg",
+    "id": "24",
+    "codigo": "204",
+    "nombre": "bowl limbadi x 2u",
+    "color":"blanco y negro",
+    "precio": 2999
+
+},
+{
+    "img":"img/bowl/BOWL LIMBADI MEDIUM.jpg",
+    "id": "25",
+    "codigo": "205",
+    "nombre": "bowl limbadi medium",
+    "color":"blanco y negro",
+    "precio": 1550
+
+},
+{
+    "img":"img/bowl/BOWL LIMBADI BLACK.jpg",
+    "id": "26",
+    "codigo": "206",
+    "nombre": "bowl limbadi black",
+    "color":"negro",
+    "precio": 1550
+
+},
+{
+    "img":"img/bowl/MINI BOWL SINTRA2.jpg",
+    "id": "27",
+    "codigo": "207",
+    "nombre": "bowl mitte mini",
+    "color":"blanco y negro",
+    "precio": 950
+
+},
+{
+    "img":"img/bowl/BOWL SINTRA1.jpg",
+    "id": "28",
+    "codigo": "208",
+    "nombre": "bowl mitte medium",
+    "color":"blanco y negro",
+    "precio": 1200
+
+},
+{
+    "img":"img/bowl/MINI BOWL SINTRA1.jpg",
+    "id": "29",
+    "codigo": "209",
+    "nombre": "bowl mitte",
+    "color":"blanco y negro",
+    "precio": 1660
+
+}]

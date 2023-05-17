@@ -1,0 +1,51 @@
+
+[
+    {
+        "img": "img/tazas/PORTAUTENSILLOS_MONTJIUC_BEIGE.jpg",
+        "id": 1,
+        "codigo": "01",
+        "titulo": "Cup Montjuic",
+        "nombre": "Cup Montjuic Beige",
+        "descripcion":"Capacidad: 650ml. Diámetro: 12cm. Altura: 9cm.",
+        "color":"beige",
+        "precio": 1985,
+        "cantidad":1
+    },
+    {
+        "img": "img/tazas/SET_MONTJUIC_COBALTO.jpg",
+        "id": 2,
+        "codigo": "02",
+        "titulo": "Set Cup y Platito",
+        "nombre": "Cup Montjuic Cobalto",
+        "descripcion":"Capacidad: 650ml. Diámetro: 12cm. Altura: 9cm.",
+        "color":"cobalto",
+        "precio": 1985,
+        "cantidad":1
+    },
+    {
+        "img": "img/tazas/TAZON MONTJUIC BLACK.jpg",
+        "id": 3,
+        "codigo": "03",
+        "titulo": "Taza Montjuic",
+        "nombre": "Cup Montjuic Black",
+        "descripcion":"Capacidad: 650ml. Diámetro: 12cm. Altura: 9cm.",
+        "color":"negro",
+        "precio": 1985,
+        "cantidad":1
+
+    },
+    {
+        "img": "img/tazas/CYMERA_20220701_151934.jpg",
+        "id": 4,
+        "codigo": "04",
+        "titulo": "Taza Limbadi",
+        "nombre": "Cup Limbadi Black",
+        "descripcion":"Capacidad: 650ml. Diámetro: 12cm. Altura: 9cm.",
+        "color":"negro",
+        "precio": 1985,
+        "cantidad":1
+
+    }
+
+
+]

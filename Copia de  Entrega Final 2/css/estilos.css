@@ -1,0 +1,56 @@
+.img-ig {
+  width: 20px; }
+
+.serie_hover:hover {
+  color: white; }
+
+.img-ig {
+  width: 20px; }
+
+.serie_hover:hover {
+  color: white; }
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'IBM Plex Serif', serif; }
+
+html {
+  width: 100vw; }
+
+header {
+  position: sticky;
+  top: 5px;
+  z-index: 100;
+  background-color: rgba(255, 255, 251, 0.377);
+  height: 80px; }
+
+.img-ig {
+  width: 20px; }
+
+.serie_hover:hover {
+  color: white; }
+
+.carrito-table{
+  padding: 40px;
+}
+.button_finalizar{
+  display: flex;
+  justify-content: end;
+}
+               
+.checkbox{
+  margin-left: 20px;
+  
+}
+
+.cups_c {
+  font-size: 14px;
+  width: 250px;
+  margin-top: 5px; }
+.plato_c{
+  font-size: 16px;
+  margin-top: 20px;
+}  
+
+ 
